@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1681934479389,
+  "timestamp": 1681936115485,
   "index": "https://ProPutt.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -59,7 +59,7 @@
     "https://ProPutt.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://ProPutt.github.io/angular-pwa/index.html": "2035d87de23b449a5c8e52fafcbb098bcd087e0c",
     "https://ProPutt.github.io/angular-pwa/main.e1e340361fe6f9f3.js": "3259a6f4f92844ac4d709128fd93a08de539ec1a",
-    "https://ProPutt.github.io/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "https://ProPutt.github.io/angular-pwa/manifest.webmanifest": "934a96f0048c8dd6386cde34114acd7d83eb5441",
     "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js": "5aa270eea610cc467bf4c4815de5496af5ad25e4",
     "https://ProPutt.github.io/angular-pwa/runtime.080825e25f44479b.js": "a654f83c4394d600fdf21c3eb5fe9400bac347c2",
     "https://ProPutt.github.io/angular-pwa/scripts.b7cebc1258dbcca8.js": "81c428b7b33ef85659fc075e18aa4c3545992f8d",
