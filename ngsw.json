@@ -1,6 +1,6 @@
 {
-  "configVersion": 4,
-  "timestamp": 1681936648822,
+  "configVersion": 1,
+  "timestamp": 1681937640702,
   "appData": {
     "version": "1.1.0",
     "changelog": "Added better resource caching"
@@ -61,7 +61,7 @@
     "https://ProPutt.github.io/angular-pwa/bootstrap-icons.02685dabe0850e40.woff2": "4c0efcf1dccc7295efc26fabe81ffe8f28d594a3",
     "https://ProPutt.github.io/angular-pwa/bootstrap-icons.8463cb1e163733b5.woff": "d598cc620458b22d80443cdd69100217316efaf3",
     "https://ProPutt.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ProPutt.github.io/angular-pwa/index.html": "4b6fd6f7f4202633dec09ea0b882da857d598e97",
+    "https://ProPutt.github.io/angular-pwa/index.html": "244a015ca35036291f27a871985e98feb3352c5e",
     "https://ProPutt.github.io/angular-pwa/main.972d5068988b9433.js": "358993eab3ca6ac56a90af37af3fac477a282a14",
     "https://ProPutt.github.io/angular-pwa/manifest.webmanifest": "934a96f0048c8dd6386cde34114acd7d83eb5441",
     "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js": "5aa270eea610cc467bf4c4815de5496af5ad25e4",
