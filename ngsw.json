@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1681933578276,
-  "index": "https://ProPutt.github.io/angular-github-actions/index.html",
+  "timestamp": 1681933853309,
+  "index": "https://ProPutt.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://ProPutt.github.io/angular-github-actions/favicon.ico",
-        "https://ProPutt.github.io/angular-github-actions/index.html",
-        "https://ProPutt.github.io/angular-github-actions/main.82557c7b4d207f64.js",
-        "https://ProPutt.github.io/angular-github-actions/manifest.webmanifest",
-        "https://ProPutt.github.io/angular-github-actions/polyfills.e03db229fb061cd2.js",
-        "https://ProPutt.github.io/angular-github-actions/runtime.080825e25f44479b.js",
-        "https://ProPutt.github.io/angular-github-actions/scripts.b7cebc1258dbcca8.js",
-        "https://ProPutt.github.io/angular-github-actions/styles.2841114f37ad4c84.css"
+        "https://ProPutt.github.io/angular-pwa/favicon.ico",
+        "https://ProPutt.github.io/angular-pwa/index.html",
+        "https://ProPutt.github.io/angular-pwa/main.82557c7b4d207f64.js",
+        "https://ProPutt.github.io/angular-pwa/manifest.webmanifest",
+        "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js",
+        "https://ProPutt.github.io/angular-pwa/runtime.080825e25f44479b.js",
+        "https://ProPutt.github.io/angular-pwa/scripts.b7cebc1258dbcca8.js",
+        "https://ProPutt.github.io/angular-pwa/styles.2841114f37ad4c84.css"
       ],
       "patterns": []
     },
@@ -30,40 +30,40 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-128x128.png",
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-144x144.png",
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-152x152.png",
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-192x192.png",
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-384x384.png",
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-512x512.png",
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-72x72.png",
-        "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-96x96.png",
-        "https://ProPutt.github.io/angular-github-actions/bootstrap-icons.02685dabe0850e40.woff2",
-        "https://ProPutt.github.io/angular-github-actions/bootstrap-icons.8463cb1e163733b5.woff"
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-128x128.png",
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-144x144.png",
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-152x152.png",
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-192x192.png",
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-384x384.png",
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-512x512.png",
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-72x72.png",
+        "https://ProPutt.github.io/angular-pwa/assets/icons/icon-96x96.png",
+        "https://ProPutt.github.io/angular-pwa/bootstrap-icons.02685dabe0850e40.woff2",
+        "https://ProPutt.github.io/angular-pwa/bootstrap-icons.8463cb1e163733b5.woff"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://ProPutt.github.io/angular-github-actions/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://ProPutt.github.io/angular-github-actions/bootstrap-icons.02685dabe0850e40.woff2": "4c0efcf1dccc7295efc26fabe81ffe8f28d594a3",
-    "https://ProPutt.github.io/angular-github-actions/bootstrap-icons.8463cb1e163733b5.woff": "d598cc620458b22d80443cdd69100217316efaf3",
-    "https://ProPutt.github.io/angular-github-actions/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ProPutt.github.io/angular-github-actions/index.html": "796e9ae9409635735cb7ed537401f23a1bc548f3",
-    "https://ProPutt.github.io/angular-github-actions/main.82557c7b4d207f64.js": "b161f5e95ecb1c952123f6af9d3a53c933b2c7c6",
-    "https://ProPutt.github.io/angular-github-actions/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
-    "https://ProPutt.github.io/angular-github-actions/polyfills.e03db229fb061cd2.js": "5aa270eea610cc467bf4c4815de5496af5ad25e4",
-    "https://ProPutt.github.io/angular-github-actions/runtime.080825e25f44479b.js": "a654f83c4394d600fdf21c3eb5fe9400bac347c2",
-    "https://ProPutt.github.io/angular-github-actions/scripts.b7cebc1258dbcca8.js": "81c428b7b33ef85659fc075e18aa4c3545992f8d",
-    "https://ProPutt.github.io/angular-github-actions/styles.2841114f37ad4c84.css": "e6fca94990a783cced6893ce209b1b976778d816"
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://ProPutt.github.io/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://ProPutt.github.io/angular-pwa/bootstrap-icons.02685dabe0850e40.woff2": "4c0efcf1dccc7295efc26fabe81ffe8f28d594a3",
+    "https://ProPutt.github.io/angular-pwa/bootstrap-icons.8463cb1e163733b5.woff": "d598cc620458b22d80443cdd69100217316efaf3",
+    "https://ProPutt.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://ProPutt.github.io/angular-pwa/index.html": "bc89bad18cf0dce6899ccd7da9a216caea84ed93",
+    "https://ProPutt.github.io/angular-pwa/main.82557c7b4d207f64.js": "b161f5e95ecb1c952123f6af9d3a53c933b2c7c6",
+    "https://ProPutt.github.io/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js": "5aa270eea610cc467bf4c4815de5496af5ad25e4",
+    "https://ProPutt.github.io/angular-pwa/runtime.080825e25f44479b.js": "a654f83c4394d600fdf21c3eb5fe9400bac347c2",
+    "https://ProPutt.github.io/angular-pwa/scripts.b7cebc1258dbcca8.js": "81c428b7b33ef85659fc075e18aa4c3545992f8d",
+    "https://ProPutt.github.io/angular-pwa/styles.2841114f37ad4c84.css": "e6fca94990a783cced6893ce209b1b976778d816"
   },
   "navigationUrls": [
     {
