@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Platform } from '@angular/cdk/platform';
 import { SwUpdate, VersionReadyEvent } from '@angular/service-worker';
 import { filter, map } from 'rxjs/operators';
+import { ApplicationRef } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -14,11 +15,24 @@ export class AppComponent implements OnInit {
   modalVersion: boolean;
   modalPwaEvent: any;
   modalPwaPlatform: string|undefined;
-
-  constructor(private platform: Platform,
-              private swUpdate: SwUpdate) {
+  
+  constructor(appRef: ApplicationRef, updates: SwUpdate) {
     this.isOnline = false;
     this.modalVersion = false;
+    // Allow the app to stabilize first, before starting
+    // polling for updates with `interval()`.
+    const appIsStable$ = appRef.isStable.pipe(first(isStable => isStable === true));
+    const everySixHours$ = interval(6 * 60 * 60 * 1000);
+    const everySixHoursOnceAppIsStable$ = concat(appIsStable$, everySixHours$);
+
+    everySixHoursOnceAppIsStable$.subscribe(async () => {
+      try {
+        const updateFound = await updates.checkForUpdate();
+        console.log(updateFound ? 'A new version is available.' : 'Already on the latest version.');
+      } catch (err) {
+        console.error('Failed to check for updates:', err);
+      }
+    });
   }
 
   public ngOnInit(): void {
