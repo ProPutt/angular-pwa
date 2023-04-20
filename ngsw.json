@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1682003399240,
+  "timestamp": 1682005941428,
   "appData": {
     "version": "1.1.0",
     "changelog": "Added better resource caching"
@@ -17,7 +17,7 @@
       "urls": [
         "https://ProPutt.github.io/angular-pwa/favicon.ico",
         "https://ProPutt.github.io/angular-pwa/index.html",
-        "https://ProPutt.github.io/angular-pwa/main.972d5068988b9433.js",
+        "https://ProPutt.github.io/angular-pwa/main.0b4faa2b7fcd8812.js",
         "https://ProPutt.github.io/angular-pwa/manifest.webmanifest",
         "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js",
         "https://ProPutt.github.io/angular-pwa/runtime.080825e25f44479b.js",
@@ -61,8 +61,8 @@
     "https://ProPutt.github.io/angular-pwa/bootstrap-icons.02685dabe0850e40.woff2": "4c0efcf1dccc7295efc26fabe81ffe8f28d594a3",
     "https://ProPutt.github.io/angular-pwa/bootstrap-icons.8463cb1e163733b5.woff": "d598cc620458b22d80443cdd69100217316efaf3",
     "https://ProPutt.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ProPutt.github.io/angular-pwa/index.html": "a257cbc79d7994449bde7623b914a38fe65b65e4",
-    "https://ProPutt.github.io/angular-pwa/main.972d5068988b9433.js": "358993eab3ca6ac56a90af37af3fac477a282a14",
+    "https://ProPutt.github.io/angular-pwa/index.html": "432e3444f7786bee87441454293ab8500a83b360",
+    "https://ProPutt.github.io/angular-pwa/main.0b4faa2b7fcd8812.js": "f54aa7a84231137dce3a0b09fec6db21521cb303",
     "https://ProPutt.github.io/angular-pwa/manifest.webmanifest": "934a96f0048c8dd6386cde34114acd7d83eb5441",
     "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js": "5aa270eea610cc467bf4c4815de5496af5ad25e4",
     "https://ProPutt.github.io/angular-pwa/runtime.080825e25f44479b.js": "a654f83c4394d600fdf21c3eb5fe9400bac347c2",
