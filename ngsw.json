@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1682011619784,
+  "timestamp": 1682011929309,
   "appData": {
     "version": "1.1.0",
     "changelog": "Added better resource caching"
@@ -22,7 +22,7 @@
         "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js",
         "https://ProPutt.github.io/angular-pwa/runtime.080825e25f44479b.js",
         "https://ProPutt.github.io/angular-pwa/scripts.b7cebc1258dbcca8.js",
-        "https://ProPutt.github.io/angular-pwa/styles.bcec4d60b7ebbc6c.css"
+        "https://ProPutt.github.io/angular-pwa/styles.562ca67f68a0567d.css"
       ],
       "patterns": []
     },
@@ -61,13 +61,13 @@
     "https://ProPutt.github.io/angular-pwa/bootstrap-icons.02685dabe0850e40.woff2": "4c0efcf1dccc7295efc26fabe81ffe8f28d594a3",
     "https://ProPutt.github.io/angular-pwa/bootstrap-icons.8463cb1e163733b5.woff": "d598cc620458b22d80443cdd69100217316efaf3",
     "https://ProPutt.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ProPutt.github.io/angular-pwa/index.html": "38cd2bf40262d76e651f2b4d1f0444e22b08089b",
+    "https://ProPutt.github.io/angular-pwa/index.html": "12d5c6c70ee1637e23bccf495f9801eca1c0dd8c",
     "https://ProPutt.github.io/angular-pwa/main.5242e602c278718e.js": "00dcf1e394c97d8c99d6813d3948061178790f87",
     "https://ProPutt.github.io/angular-pwa/manifest.webmanifest": "fceadc722daae6f359b340e574f38ad839d6b176",
     "https://ProPutt.github.io/angular-pwa/polyfills.e03db229fb061cd2.js": "5aa270eea610cc467bf4c4815de5496af5ad25e4",
     "https://ProPutt.github.io/angular-pwa/runtime.080825e25f44479b.js": "a654f83c4394d600fdf21c3eb5fe9400bac347c2",
     "https://ProPutt.github.io/angular-pwa/scripts.b7cebc1258dbcca8.js": "81c428b7b33ef85659fc075e18aa4c3545992f8d",
-    "https://ProPutt.github.io/angular-pwa/styles.bcec4d60b7ebbc6c.css": "864b3737fea01bc12e7ec34a0912132a0075aa76"
+    "https://ProPutt.github.io/angular-pwa/styles.562ca67f68a0567d.css": "2740a27f7e30732c235ef4f6d2d5fc540c296279"
   },
   "navigationUrls": [
     {
