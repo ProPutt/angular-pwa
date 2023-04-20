@@ -16,8 +16,10 @@ export class AppComponent implements OnInit {
   modalVersion: boolean;
   modalPwaEvent: any;
   modalPwaPlatform: string|undefined;
-  
-  constructor(appRef: ApplicationRef, swUpdate: SwUpdate) {
+ 
+  constructor(appRef: ApplicationRef, 
+              private platform: Platform,
+              private swUpdate: SwUpdate) {
     this.isOnline = false;
     this.modalVersion = false;
     // Allow the app to stabilize first, before starting
