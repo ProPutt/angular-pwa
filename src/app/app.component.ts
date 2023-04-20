@@ -17,7 +17,7 @@ export class AppComponent implements OnInit {
   modalPwaEvent: any;
   modalPwaPlatform: string|undefined;
   
-  constructor(appRef: ApplicationRef, updates: SwUpdate) {
+  constructor(appRef: ApplicationRef, swUpdate: SwUpdate) {
     this.isOnline = false;
     this.modalVersion = false;
     // Allow the app to stabilize first, before starting
@@ -28,7 +28,7 @@ export class AppComponent implements OnInit {
 
     everySixHoursOnceAppIsStable$.subscribe(async () => {
       try {
-        const updateFound = await updates.checkForUpdate();
+        const updateFound = await swUpdate.checkForUpdate();
         console.log(updateFound ? 'A new version is available.' : 'Already on the latest version.');
       } catch (err) {
         console.error('Failed to check for updates:', err);
