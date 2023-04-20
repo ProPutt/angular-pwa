@@ -1,8 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { Platform } from '@angular/cdk/platform';
 import { SwUpdate, VersionReadyEvent } from '@angular/service-worker';
-import { filter, map } from 'rxjs/operators';
+import { filter, map, first } from 'rxjs/operators';
 import { ApplicationRef } from '@angular/core';
+import { concat, interval } from 'rxjs';
 
 @Component({
   selector: 'app-root',
