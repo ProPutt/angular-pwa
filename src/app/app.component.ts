@@ -47,13 +47,12 @@ export class AppComponent implements OnInit {
     
     if (this.swUpdate.isEnabled) {
       console.info(`swUpdate.isEnabled`);
-      this.swUpdate.versionUpdates.pipe(
-        filter((evt: any): evt is VersionReadyEvent => evt.type === 'VERSION_READY'),
-        map((evt: any) => {
+      this.swUpdate.versionUpdates
+        .pipe(filter((evt): evt is VersionReadyEvent => evt.type === 'VERSION_READY'))
+        .subscribe(evt => {
           console.info(`currentVersion=[${evt.currentVersion} | latestVersion=[${evt.latestVersion}]`);
           this.modalVersion = true;
-        }),
-      );
+        });
     }
 
     this.loadModalPwa();
