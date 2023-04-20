@@ -26,8 +26,10 @@ export class AppComponent implements OnInit {
 
     window.addEventListener('online',  this.updateOnlineStatus.bind(this));
     window.addEventListener('offline', this.updateOnlineStatus.bind(this));
-
+    console.info(`check swUpdate.isEnabled`);
+    
     if (this.swUpdate.isEnabled) {
+      console.info(`swUpdate.isEnabled`);
       this.swUpdate.versionUpdates.pipe(
         filter((evt: any): evt is VersionReadyEvent => evt.type === 'VERSION_READY'),
         map((evt: any) => {
